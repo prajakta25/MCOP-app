@@ -1,5 +1,5 @@
 <p><h1>Participated in MCPTT Tech to protect Challenge</h1>
-<h3>"https://www.techtoprotectchallenge.org/contest/contest-002/"</h3></p>
+<h3>https://www.techtoprotectchallenge.org/contest/contest-002/</h3></p>
  
 
 # MCOP SDK version 0.2
