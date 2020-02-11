@@ -1,5 +1,5 @@
 <p><h1>Participated in MCPTT Tech to protect Challenge</h1>
-<a href="https://www.techtoprotectchallenge.org/contest/contest-002/" target="_blank" rel="noopener noreferrer"></p>
+<h3>"https://www.techtoprotectchallenge.org/contest/contest-002/"</h3></p>
  
 
 # MCOP SDK version 0.2
